@@ -11,4 +11,4 @@ bitsandbytes
 accelerate
 soundfile
 google-genai
-time
+gradio
