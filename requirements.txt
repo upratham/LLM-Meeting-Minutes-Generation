@@ -1,0 +1,14 @@
+dotenv 
+ipykernel
+openai 
+requests
+ipython
+gradio
+huggingface_hub
+transformers
+torch
+bitsandbytes
+accelerate
+soundfile
+google-genai
+time
